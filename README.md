@@ -14,10 +14,6 @@ Here are some of the technologies and tools I love working with:
 - **Build Tools:** Webpack, Babel
 - **Version Control:** Git, GitHub
 
-## GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
 Feel free to explore my repositories and reach out. I'm always up for interesting discussions and collaboration!
 
 Happy coding! 🚀
