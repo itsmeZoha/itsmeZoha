@@ -3,7 +3,6 @@
 - 👯 I'm always open to collaboration and working on exciting frontend projects.
 - 💬 Ask me about anything related to frontend development, and I'll be happy to help.
 - 📫 Reach me at callmezoiii42@gmail.com
-- 😄 Pronouns: [Your Pronouns - optional].
 
 ## Tech Stack
 
