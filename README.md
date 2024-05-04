@@ -9,9 +9,8 @@
 Here are some of the technologies and tools I love working with:
 
 - **Languages:** HTML, CSS, JavaScript
-- **Frameworks/Libraries:** bootstrap,tailwindCSS, React.js, Vue.js
+- **Frameworks/Libraries:** bootstrap,tailwindCSS, Reactjs
 - **Styling:** SASS/SCSS, styled-components
-- **Build Tools:** Webpack, Babel
 - **Version Control:** Git, GitHub
 
 Feel free to explore my repositories and reach out. I'm always up for interesting discussions and collaboration!
